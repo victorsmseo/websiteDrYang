@@ -468,3 +468,12 @@ body {
 th {
   text-align: center;
 }
+.fontBlack {
+  color: black;
+}
+.storyAction:hover {
+  text-decoration: none;
+}
+.storyActionWhite:hover {
+  color: white;
+}
